@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$baseTexture" "models\nintendo\flat"
+	"$alphatest" 1
+	"$nodecal" "1"
+	"$model" "1"
+}
